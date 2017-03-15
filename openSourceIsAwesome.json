@@ -1,4 +1,11 @@
-{ 
-    "title": "hello",
-    "description" : "a nice hello app"
-}
+{
+        "description" : "Handle all the aspects of push notifications for your app, including remote and local notifications, interactive notifications, silent notifications, and more.",
+        "title": "React Native Notifications",
+        "github": "https://github.com/wix/react-native-notifications",
+        "AndroidVideoUrl": "",
+        "IOSVideoUrl": "https://wix.github.io/react-native//assets/themes/bootstrap-3/components/images/declerative/oneapp-navigation-movie.mp4",
+        "IOSDemoAppLink": "",
+        "Image": "",
+        "size" : "normal",
+        "AndroidDemoAppLink": ""
+    }

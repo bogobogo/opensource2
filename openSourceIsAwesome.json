@@ -6,6 +6,7 @@
         "IOSVideoUrl": "https://wix.github.io/react-native//assets/themes/bootstrap-3/components/images/declerative/oneapp-navigation-movie.mp4",
         "IOSDemoAppLink": "",
         "Image": "",
+        name: "react-native-notification",
         "size" : "normal",
         "AndroidDemoAppLink": ""
     }
